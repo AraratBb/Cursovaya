@@ -1,0 +1,5 @@
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\x64\Debug\Cursovaya.vcxproj.AssemblyReference.cache
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\x64\Debug\Cursovaya.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\x64\Debug\Cursovaya.FirstForm.resources
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\x64\Debug\Cursovaya.VinForm.resources
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\x64\Debug\Cursovaya.vcxproj.GenerateResource.cache

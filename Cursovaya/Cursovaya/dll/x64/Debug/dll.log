@@ -1,0 +1,28 @@
+﻿  dll.cpp
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(43,9): warning C4251: Base::print_key: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Base"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(5294,17): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(44,15): warning C4251: Base::lat_down: class "std::vector<char,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Base"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(44,2): message : см. объявление "std::vector<char,std::allocator<char>>"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(44,25): warning C4251: Base::lat_up: class "std::vector<char,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Base"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(44,2): message : см. объявление "std::vector<char,std::allocator<char>>"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(44,33): warning C4251: Base::kir_down: class "std::vector<char,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Base"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(44,2): message : см. объявление "std::vector<char,std::allocator<char>>"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(44,43): warning C4251: Base::kir_up: class "std::vector<char,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Base"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(44,2): message : см. объявление "std::vector<char,std::allocator<char>>"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(68,14): warning C4251: Gronsfeld::keys: class "std::vector<int,std::allocator<int>>" должен иметь dll-интерфейс для использования клиентами class "Gronsfeld"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(67,2): message : см. объявление "std::vector<int,std::allocator<int>>"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(80,9): warning C4251: Vigenere::key_word: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "Vigenere"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring(5294,17): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(92,16): warning C4251: DB::v: class "std::vector<Base *,std::allocator<Base *>>" должен иметь dll-интерфейс для использования клиентами class "DB"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.h(92,2): message : см. объявление "std::vector<Base *,std::allocator<Base *>>"
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.cpp(37,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.cpp(77,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.cpp(84,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.cpp(173,51): warning C4244: аргумент: преобразование "__int64" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.cpp(184,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\dll\dll.cpp(249): warning C4715: DB::operator[]: значение возвращается не при всех путях выполнения
+  dll.vcxproj -> C:\Users\arara\OneDrive\Рабочий стол\Cursovaya\Cursovaya\bin\dll.dll
